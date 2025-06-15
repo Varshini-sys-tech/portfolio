@@ -47,7 +47,7 @@ portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RohithaDantala/portfolio.git
+   git clone https://github.com/veda varshini/portfolio.git
    ```
 
 2. **Navigate to the project directory**
@@ -71,8 +71,8 @@ The portfolio includes a contact form with the following fields:
 
 ## 🔗 Social Links
 
-- **LinkedIn**: [Rohitha Dantala](https://www.linkedin.com/in/veda-v-8717a4277/)
-- **GitHub**: [RohithaDantala](https://github.com/Varshini-sys-tech)
+- **LinkedIn**: [VedaVarshini](https://www.linkedin.com/in/veda-v-8717a4277/)
+- **GitHub**: [VedaVarshini](https://github.com/Varshini-sys-tech)
 - **HackerRank**: Coming Soon
 - **YouTube**: Coming Soon
 
