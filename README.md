@@ -47,7 +47,7 @@ portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/veda varshini/portfolio.git
+   git clone https://github.com/Varshini-sys-tech/portfolio.git
    ```
 
 2. **Navigate to the project directory**
